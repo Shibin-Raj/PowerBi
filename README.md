@@ -61,25 +61,29 @@ Explores customer demographics, education levels, occupations, marital status, g
 
 Sales Snapshot
 
-"Sales Snapshot Dashboard" !["image"](Project/Screenshot (19).png)
+"Sales Snapshot Dashboard" 
+!["image"](Project/Screenshot (19).png)
 
 Sales Overview
 
-"Sales Overview Dashboard" !["image"](image/project.PNG)
+"Sales Overview Dashboard"
+!["image"](image/project.PNG)
 
 Territory Performance
 
-"Territory Performance Dashboard" !["image"](image/project.PNG)
+"Territory Performance Dashboard"
+!["image"](image/project.PNG)
 
 Customer Insights
 
-"Customer Insights Dashboard" !["image"](image/project.PNG)
+"Customer Insights Dashboard" 
+!["image"](image/project.PNG)
 
 📂 Project Structure
 
 Sales-Performance-Dashboard/
 ├── images/
-│   ├── sales-snapshot.png
+│   ├── sales-Screenshot (19).png
 │   ├── sales-overview.png
 │   ├── territory-performance.png
 │   └── customer-insights.png
