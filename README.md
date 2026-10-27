@@ -60,33 +60,26 @@ Explores customer demographics, education levels, occupations, marital status, g
 📷 Dashboard Screenshots
 
 Sales Snapshot
-
-"Sales Snapshot Dashboard" 
-!["image"](Project/Screenshot (19).png)
+ 
+!["image"](Project/Screenshot(19).png)
 
 Sales Overview
-
-"Sales Overview Dashboard"
-!["image"](image/project.PNG)
+!["image"](Screenshot(21).png)
 
 Territory Performance
-
-"Territory Performance Dashboard"
-!["image"](image/project.PNG)
+!["image"](image/Screenshot(22).png)
 
 Customer Insights
-
-"Customer Insights Dashboard" 
-!["image"](image/project.PNG)
+!["image"](image/Screenshot(23).png)
 
 📂 Project Structure
 
 Sales-Performance-Dashboard/
 ├── images/
-│   ├── sales-Screenshot (19).png
-│   ├── sales-overview.png
-│   ├── territory-performance.png
-│   └── customer-insights.png
+│   ├── sales-Screenshot(19).png
+│   ├── sales-Screenshot(21).png
+│   ├── territory-Screenshot(22).png
+│   └── customer-Screenshot(23).png
 ├── Sales-Performance-Dashboard.pbix
 └── README.md
 
@@ -96,4 +89,3 @@ Created as a data analytics portfolio project to demonstrate Power BI dashboard 
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository!
