@@ -61,7 +61,7 @@ Explores customer demographics, education levels, occupations, marital status, g
 
 Sales Snapshot
 
-"Sales Snapshot Dashboard" !["image"](image/project.PNG)
+"Sales Snapshot Dashboard" !["image"](Project/Screenshot (19).png)
 
 Sales Overview
 
