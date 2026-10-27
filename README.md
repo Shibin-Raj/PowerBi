@@ -1,7 +1,6 @@
+# 📊 Sales Performance Dashboard 
 
-📊 Sales Performance Dashboard – Power BI
-
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents an interactive Sales Performance Dashboard built using Power BI to analyze sales, revenue, profit, customer behavior, and territory performance. It contains four report pages that provide actionable business insights through KPIs, charts, tables, and interactive filters.
 
