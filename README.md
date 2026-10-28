@@ -64,13 +64,13 @@ Sales Snapshot
 !["image"](Project/Screenshot(19).png)
 
 Sales Overview
-!["image"](Screenshot(21).png)
+!["image"](Screenshot(23).png)
 
 Territory Performance
 !["image"](image/Screenshot(22).png)
 
 Customer Insights
-!["image"](image/Screenshot(23).png)
+!["image"](Project/Screenshot(21).png)
 
 📂 Project Structure
 
