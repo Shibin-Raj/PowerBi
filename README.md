@@ -83,9 +83,6 @@ Sales-Performance-Dashboard/
 ├── Sales-Performance-Dashboard.pbix
 └── README.md
 
-👨‍💻 Author
-
-Created as a data analytics portfolio project to demonstrate Power BI dashboard development and business intelligence skills.
 
 ---
 
