@@ -64,10 +64,10 @@ Sales Snapshot
 !["image"](Project/Screenshot(19).png)
 
 Sales Overview
-!["image"](Screenshot(23).png)
+!["image"](Project/Screenshot(23).png)
 
 Territory Performance
-!["image"](image/Screenshot(22).png)
+!["image"](Project/Screenshot(22).png)
 
 Customer Insights
 !["image"](Project/Screenshot(21).png)
@@ -76,10 +76,10 @@ Customer Insights
 
 Sales-Performance-Dashboard/
 ├── images/
-│   ├── sales-Screenshot(19).png
-│   ├── sales-Screenshot(21).png
+│   ├── sales Snapshot-Screensho(19).png
+│   ├── sales-Screenshot(23).png
 │   ├── territory-Screenshot(22).png
-│   └── customer-Screenshot(23).png
+│   └── customer-Screenshot(21).png
 ├── Sales-Performance-Dashboard.pbix
 └── README.md
 
